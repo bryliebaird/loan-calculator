@@ -1,0 +1,7 @@
+/* --- Reset --- */ 
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* simple application project focuses mainly on vanilla javascript, specifically working on the DOM. To style this application used Bootstrap */
